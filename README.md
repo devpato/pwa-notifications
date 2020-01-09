@@ -1,5 +1,7 @@
 ## PWA Notification
 
+<img src="./pwa-logo.png"/>
+
 Have you ever wondered how to display one of those annoying notifications on your website?
 
 In this tutorial you will see how it's done.
