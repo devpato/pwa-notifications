@@ -1,1 +1,1 @@
-
+console.log('Service Worker');
