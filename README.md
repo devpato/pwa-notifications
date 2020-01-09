@@ -12,8 +12,8 @@ https://pwa-notification-td.firebaseapp.com/
 
 ## Screenshots
 
-<img src="./assets/pwa-sc1.png" height="200px"/>
-<img src="./assets/pwa-sc2.png" height="200px"/>
+<img src="./assets/pwa-sc1.png" height="400px"/>
+<img src="./assets/pwa-sc2.png" height="400px"/>
 
 We will make use of the <strong>Notification API</strong>
 
